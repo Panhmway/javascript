@@ -13,4 +13,4 @@ appDiv.innerHTML = `<h1>hello</h1>`;
 // console.log(hello);
 
 const age = 19;
-const isOldEnough =age => 18;
+const isOldEnough = (age) => 18;
